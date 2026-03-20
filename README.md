@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-20 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Markdown | [📝](l36_ValidSudoku.md) |
 | 2026-02-26 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Mysql | [📝](l577_EmployeeBonus.md) |
 | 2026-02-25 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-02-24 | 122 | [Best Timeto Buyand Sell Stock I I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Java | [📝](l122_BestTimetoBuyandSellStockII.md) |
