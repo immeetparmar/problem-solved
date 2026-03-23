@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-23 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Java | [📝](l189_RotateArray.md) |
 | 2026-03-22 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Java | [📝](l21_MergeTwoSortedLists.md) |
 | 2026-03-21 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Java | [📝](l199_BinaryTreeRightSideView.md) |
 | 2026-03-20 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Markdown | [📝](l36_ValidSudoku.md) |
