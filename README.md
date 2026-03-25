@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-25 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Java | [📝](l9_PalindromeNumber.md) |
+| 2026-03-25 | 121 | [Best Timeto Buyand Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | [📝](l121_BestTimetoBuyandSellStock.md) |
 | 2026-03-24 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Java | [📝](l61_RotateList.md) |
 | 2026-03-23 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Java | [📝](l189_RotateArray.md) |
 | 2026-03-22 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Java | [📝](l21_MergeTwoSortedLists.md) |
