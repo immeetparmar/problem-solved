@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-27 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Java | [📝](l283_MoveZeroes.md) |
 | 2026-03-26 | 876 | [Middleofthe Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Java | [📝](l876_MiddleoftheLinkedList.md) |
 | 2026-03-25 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Java | [📝](l9_PalindromeNumber.md) |
 | 2026-03-25 | 121 | [Best Timeto Buyand Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | [📝](l121_BestTimetoBuyandSellStock.md) |
