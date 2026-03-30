@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-30 | 219 | [Contains Duplicate I I](https://leetcode.com/problems/contains-duplicate-ii/) | Java | [📝](l219_ContainsDuplicateII.md) |
 | 2026-03-29 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Java | [📝](l217_ContainsDuplicate.md) |
 | 2026-03-27 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Java | [📝](l283_MoveZeroes.md) |
 | 2026-03-26 | 876 | [Middleofthe Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Java | [📝](l876_MiddleoftheLinkedList.md) |
