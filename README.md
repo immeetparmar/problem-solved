@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-04-01 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Java | [📝](l27_RemoveElement.md) |
 | 2026-03-31 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | [📝](l268_MissingNumber.md) |
 | 2026-03-30 | 219 | [Contains Duplicate I I](https://leetcode.com/problems/contains-duplicate-ii/) | Java | [📝](l219_ContainsDuplicateII.md) |
 | 2026-03-29 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Java | [📝](l217_ContainsDuplicate.md) |
