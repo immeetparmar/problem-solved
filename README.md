@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-11 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Java | [📝](l1886_DetermineWhetherMatrixCanBeObtainedByRotation.md) |
 | 2026-08-10 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Java | [📝](l2089_FindTargetIndicesAfterSortingArray.md) |
 | 2026-08-08 | 1431 | [Kids Withthe Greatest Numberof Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Java | [📝](l1431_KidsWiththeGreatestNumberofCandies.md) |
 | 2026-08-04 | 1380 | [Lucky Numbersina Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Markdown | [📝](l1380_LuckyNumbersinaMatrix.md) |
