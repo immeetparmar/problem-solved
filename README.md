@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-13 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | Java | [📝](l3701_ComputeAlternatingSum.md) |
 | 2026-08-12 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Java | [📝](l1089_DuplicateZeros.md) |
 | 2026-08-12 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Java | [📝](l125_ValidPalindrome.md) |
 | 2026-08-11 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Java | [📝](l1886_DetermineWhetherMatrixCanBeObtainedByRotation.md) |
