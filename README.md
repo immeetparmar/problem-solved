@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-14 | 2129 | [Capitalizethe Title](https://leetcode.com/problems/capitalize-the-title/) | Java | [📝](l2129_CapitalizetheTitle.md) |
 | 2026-08-13 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | Java | [📝](l3701_ComputeAlternatingSum.md) |
 | 2026-08-12 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Java | [📝](l1089_DuplicateZeros.md) |
 | 2026-08-12 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Java | [📝](l125_ValidPalindrome.md) |
