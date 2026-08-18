@@ -3,6 +3,11 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-18 | 58 | [Lengthof Last Word](https://leetcode.com/problems/length-of-last-word/) | Java | [📝](l58_LengthofLastWord.md) |
+| 2026-08-18 | 1108 | [Defangingan I P Address](https://leetcode.com/problems/defanging-an-ip-address/) | Java | [📝](l1108_DefanginganIPAddress.md) |
+| 2026-08-18 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | Java | [📝](l1678_GoalParserInterpretation.md) |
+| 2026-08-18 | 151 | [Reverse Wordsina String](https://leetcode.com/problems/reverse-words-in-a-string/) | Java | [📝](l151_ReverseWordsinaString.md) |
+| 2026-08-17 | 1662 | [Check If Two String Arraysare Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Java | [📝](l1662_CheckIfTwoStringArraysareEquivalent.md) |
 | 2026-08-14 | 2129 | [Capitalizethe Title](https://leetcode.com/problems/capitalize-the-title/) | Java | [📝](l2129_CapitalizetheTitle.md) |
 | 2026-08-13 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | Java | [📝](l3701_ComputeAlternatingSum.md) |
 | 2026-08-12 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Java | [📝](l1089_DuplicateZeros.md) |
