@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-19 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Java | [📝](l205_IsomorphicStrings.md) |
+| 2026-08-19 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Java | [📝](l520_DetectCapital.md) |
 | 2026-08-18 | 58 | [Lengthof Last Word](https://leetcode.com/problems/length-of-last-word/) | Java | [📝](l58_LengthofLastWord.md) |
 | 2026-08-18 | 1108 | [Defangingan I P Address](https://leetcode.com/problems/defanging-an-ip-address/) | Java | [📝](l1108_DefanginganIPAddress.md) |
 | 2026-08-18 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | Java | [📝](l1678_GoalParserInterpretation.md) |
