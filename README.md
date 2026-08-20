@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-20 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Java | [📝](l2864_MaximumOddBinaryNumber.md) |
+| 2026-08-20 | 977 | [Squaresofa Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Java | [📝](l977_SquaresofaSortedArray.md) |
 | 2026-08-19 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Java | [📝](l205_IsomorphicStrings.md) |
 | 2026-08-19 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Java | [📝](l520_DetectCapital.md) |
 | 2026-08-18 | 58 | [Lengthof Last Word](https://leetcode.com/problems/length-of-last-word/) | Java | [📝](l58_LengthofLastWord.md) |
