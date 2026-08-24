@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-08-24 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Java | [📝](l704_BinarySearch.md) |
+| 2026-08-24 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Java | [📝](l35_SearchInsertPosition.md) |
 | 2026-08-21 | 1750 | [Minimum Lengthof String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Java | [📝](l1750_MinimumLengthofStringAfterDeletingSimilarEnds.md) |
 | 2026-08-20 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Java | [📝](l2864_MaximumOddBinaryNumber.md) |
 | 2026-08-20 | 977 | [Squaresofa Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Java | [📝](l977_SquaresofaSortedArray.md) |
