@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-09-08 | 3870 | [Count Commasin Range](https://leetcode.com/problems/count-commas-in-range/) | Java | [📝](l3870_CountCommasinRange.md) |
 | 2026-08-31 | 74 | [Searcha2 D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Text | [📝](l74_Searcha2DMatrix.md) |
 | 2026-08-31 | 852 | [Peak Indexina Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Java | [📝](l852_PeakIndexinaMountainArray.md) |
 | 2026-08-24 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Java | [📝](l704_BinarySearch.md) |
