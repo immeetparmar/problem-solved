@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-09-28 | 154 | [Find Minimumin Rotated Sorted Array I I](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Java | [📝](l154_FindMinimuminRotatedSortedArrayII.md) |
+| 2026-09-28 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Java | [📝](l162_FindPeakElement.md) |
 | 2026-09-08 | 3870 | [Count Commasin Range](https://leetcode.com/problems/count-commas-in-range/) | Java | [📝](l3870_CountCommasinRange.md) |
 | 2026-08-31 | 74 | [Searcha2 D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Text | [📝](l74_Searcha2DMatrix.md) |
 | 2026-08-31 | 852 | [Peak Indexina Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Java | [📝](l852_PeakIndexinaMountainArray.md) |
